@@ -496,3 +496,21 @@ article:
     pages:
 data:
   doi:  https://doi.org/10.3886/E173861V1
+
+  ---
+
+title: Assignment Feedback in School Choice Mechanisms
+authors:
+  - name: Stephenson, Daniel
+    orcid: 0000-0002-9650-6772
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-21-00001R3
+    volume:
+    issue:
+    pages:
+data:
+  doi:  https://doi.org/10.5281/zenodo.6791431
+
