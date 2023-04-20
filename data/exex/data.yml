@@ -899,7 +899,7 @@ article:
 data:
   doi: https://doi.org/10.3886/E182901V3
   
-  ---
+ ---
   
   title: Do We All Coordinate in the Long Run?
 authors:
@@ -920,7 +920,7 @@ article:
 data:
   doi: 10.17605/OSF.IO/N8HPJ
   
-  ---
+ ---
   
   title: A General Revealed Preference Test for Quasilinear Preferences: Theory and Experiments
 authors:
@@ -939,7 +939,7 @@ article:
 data:
   doi: https://osf.io/p8qyf/
   
-  ---
+---
   
   title: Morally Monotonic Choice in Public Good Games
 authors:
@@ -960,7 +960,7 @@ article:
 data:
   doi: https://doi.org/10.5281/zenodo.7412044
   
- ---
+---
   
   title: Does communicating within a team influence individuals’ reasoning and decisions?
 authors:
@@ -981,7 +981,7 @@ article:
 data:
   doi: https://doi.org/10.5281/zenodo.7424181
   
- ---
+---
   
   title: Principal's Distributive Preferences and the Incentivization of Agents
 authors:
@@ -1002,7 +1002,7 @@ article:
 data:
   doi: https://osf.io/jbx92 
   
-   ---
+---
   
   title: Ingroup Bias in a Social Learning Experiment
 authors:
@@ -1023,6 +1023,203 @@ article:
 data:
   doi: http://doi.org/10.17605/OSF.IO/DR7AK
     
+ ---
+  
+  title: Endogenous Reference Prices
+authors:
+  - name: Olivier Armantier
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00313R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/VHDSK/
     
+  ---
   
+  title: The Distributional Preferences of Americans, 2013-2016
+authors:
+  - name: Fisman, Raymond
+    orcid:
+  - name: Jakiela, Pamela
+    orcid:
+  - name: Kariv, Shachar
+    orcid:
+  - name: Vannutelli, Silvia
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00169R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9EQJZE&faces-redirect=true
+    
+    ---
   
+  title: Gender Differences in Alternating-Offer Bargaining. An Experimental Study
+authors:
+  - name: Hernandez-Arenaz, Iñigo 
+    orcid:
+  - name: Iriberri, Nagore 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00001R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/9wu2e/
+    
+                       
+ ---
+  
+  title: Participatory incentives
+authors:
+  - name: Bripi, Francesco
+    orcid:
+  - name: Grieco, Daniela 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00187R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.7629698
+                       
+---
+  
+  title: Relaxing the symmetry assumption in participation games: A specification test for cluster-heterogeneity
+authors:
+  - name: Kirman, Alan 
+    orcid:
+  - name: Laisney, Francois 
+    orcid:
+  - name: Pezanis-Christou, Paul 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-19-00144R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/k4ndp
+                       
+   ---
+  
+  title: Permutation Tests for Experimental Data
+authors:
+  - name:  Holt, A. Charles 
+    orcid:
+  - name:  Sullivan, P. Sean
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00320R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://zenodo.org/record/7655649
+                       
+    ---
+  
+  title: When, and Why, Do Teams Benefit from Self-Selection?
+authors:
+  - name:  Mira Fischer Rilke 
+    orcid:
+  - name:  Rilke, Rainer Michael
+    orcid:
+  - name:  Yurtoglu, Burcin 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00336R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/nqsj4
+                       
+    ---
+  
+  title: Tournament Incentives Affect Perceived Stress and Hormonal Stress Responses
+authors:
+  - name:  Stolp, Tom 
+    orcid:
+  - name:  Dohmen, Thomas
+    orcid:
+  - name:  Rohdec, Ingrid M.T.
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00032R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/9KL75I
+                            
+---
+  
+  title: Fairness Has Less Impact When Agents Are Less Informed
+authors:
+  - name: Huang, Jennie 
+    orcid:
+  - name:  Kessler, B. Judd
+    orcid:
+  - name: Niederle, Muriel 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00280
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PKUCHI
+  
+---
+  
+  title: Contests with Revisions
+authors:
+  - name: Dechenaux, Emmanuel  
+    orcid:
+  - name:  Mago, D. Shakun
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00164R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.7772657
