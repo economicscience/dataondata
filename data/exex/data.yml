@@ -1249,9 +1249,87 @@ article:
   doi: 
   journal:
     name: JESA
-    manuscript:  JESA-D-21-00039R2
+    manuscript: JESA-D-21-00039R2
     volume:
     issue:
     pages:
 data:
   doi: https://osf.io/jxa7m/
+  
+ ---
+  
+title: Upset but (almost) correct: A conceptual replication of di Tella, Perez-Truglia, Babino and Sigman (2015)
+authors:
+  - name: Verrina, Eugenio
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-21-00004R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/ud5g7/
+  
+---
+  
+title: Upset but (almost) correct: A conceptual replication of di Tella, Perez-Truglia, Babino and Sigman (2015)
+authors:
+  - name: Gustav Tingög
+    orcid:
+  - name: Allegra Maguire
+    orcid:
+  - name: Emil Persson
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-21-00012R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/p4yjm/
+
+---
+  
+title: Opportunity cost neglect: a meta-analysis
+authors:
+  - name: Tingög, Gustav 
+    orcid:
+  - name: Maguire, Allegra 
+    orcid:
+  - name: Persson, Emil 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-21-00012R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/p4yjm/
+  
+---
+  
+title: Overconfidence: the roles of gender, public observability and incentives
+authors:
+  - name: Amirkhanyan, Hayk 
+    orcid:
+  - name: Krawczyk, Michał 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-20-00060R4
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/9bv8n/
