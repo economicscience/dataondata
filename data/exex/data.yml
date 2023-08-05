@@ -1391,7 +1391,64 @@ article:
     pages:
 data:
   doi: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CO8RPY
-
   
-
+---
   
+title: Cooperation and confusion in public goods games: Confusion cannot explain contribution patterns
+authors:
+  - name: Kocher, Martin
+    orcid:
+  - name: Granulo, Armin
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-21-00042R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/6DFZ4
+
+---
+  
+title: Contracting under Asymmetric Information and Externalities: An Experimental Study
+authors:
+  - name: Nieken, Petra 
+    orcid:
+  - name: Schmitz, W. Patrick 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00265R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/z7c52/
+
+---
+  
+title: Intention-based Social Influence in (Non) Strategic Sharing Experiments
+authors:
+  - name: Di Cagno, Daniela 
+    orcid:
+  - name: Werner, Gueth
+    orcid:
+  - name: Puca, Marcello 
+    orcid:
+  - name: Sbriglia, Patrizia
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-20-00017R4
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://www.openicpsr.org/openicpsr/project/172581/version/V4/view
