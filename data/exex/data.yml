@@ -185,9 +185,9 @@ data:
 
 title: A reassessment of the potential for loss-framed incentive contracts to increase productivity: a meta-analysis and a real-effort experiment
 authors:
-  - name: Ferraro, J. Paul 
+  - name: Ferraro, Paul J
     orcid: 0000-0002-4777-5108
-  - name: Tracy, J. Dustin 
+  - name: Tracy, Dustin J
     orcid: 0000-0002-9618-4507
 article:
   doi: https://doi.org/10.1007/s10683-022-09754-x
@@ -818,7 +818,7 @@ data:
 authors:
   - name: Heinicke, Franziska 
     orcid:
-  - name: Geraldes,  Diogo 
+  - name: Geraldes, Diogo 
     orcid:
   - name: Rosenkranz, Stephanie 
     orcid:
@@ -1431,3 +1431,63 @@ article:
     pages:
 data:
   doi: https://www.openicpsr.org/openicpsr/project/172581/version/V4/view
+  
+---
+    
+title: Overconfidence: the roles of gender, public observability and incentives
+authors:
+  - name: Krawczyk, Michal
+    orcid:
+  - name: Amirkhanyan, Hayk 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-20-00060R4
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/9BV8N
+
+  ---
+    
+title: Endowments, Expectations, and the Value of Food Safety Certification: Experimental Evidence from Fish Markets in Nigeria
+authors:
+  - name: Shikuku, Kelvin M
+    orcid:
+  - name: Bulte, Erwin 
+    orcid:
+ - name: Lagerkvist, Carl J
+    orcid:
+article:
+  doi: 
+  journal:
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00227R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.7910/DVN/VKZTLD
+---
+
+title: The Preference Survey Module: Evidence on Social Preferences from Tehran
+authors:
+  - name: Kosfeld, Michael 
+    orcid:
+  - name: Sharafi, Zahra 
+    orcid:
+article:
+  doi: 
+  journal:
+    name: JESA
+    manuscript: JESA-D-22-00004R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: DOI 10.17605/OSF.IO/459KW
+
+  ---
