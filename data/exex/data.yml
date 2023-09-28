@@ -390,7 +390,7 @@ title: On the Change of Risk Aversion in Wealth: A Field Experiment in a Closed 
 authors:
   - name: Huber, Tobias
     orcid: 
-  - name: Jaspersen, G. Johannes
+  - name: Jaspersen, Johannes G
     orcid: 
   - name: Richter, Andreas
     orcid: 
@@ -457,7 +457,7 @@ authors:
     orcid: 
   - name: Peter, Noemi
     orcid: 
-  - name: Wolter C., Stefan
+  - name: Wolter, Stefan C
     orcid: 
 article:
   doi: 
@@ -648,7 +648,7 @@ authors:
     orcid: 
   - name: Jorrat, Diego 
     orcid: 
-  - name: Espín, M. Antonio 
+  - name: Espín, Antonio M
     orcid: 
   - name: Sánchez, Angel 
     orcid: 
@@ -689,7 +689,7 @@ data:
 authors:
   - name: Grech, D. Philip 
     orcid: 
-  - name:  Nax, H. Heinrich
+  - name:  Nax, Heinrich H
     orcid: 
   - name: Soos, Adrian 
     orcid: 
@@ -710,7 +710,7 @@ data:
 authors:
   - name: Alem, Yonas 
     orcid: 
-  - name: Kocher, G. Martin
+  - name: Kocher, Martin G
     orcid: 
   - name: Schürz, Simon
     orcid: 
@@ -757,8 +757,8 @@ data:
   
   title: Skewness Expectations and Portfolio Choice
 authors:
-  - name: Drerup, H. Tilman
-    orcid: 
+  - name: Drerup, Tilman H
+    orcid:
   - name: Matthias, Wibral
     orcid: 
   - name: Zimpelmann, Christian 
@@ -837,17 +837,17 @@ data:
   
   title: Experimental (re-)analysis of the house-money effect in a public goods game
 authors:
-  - name:  Bailey, T. Nicholas
+  - name:  Bailey, Nicholas T
     orcid:
   - name: Ramalingam, Abhijit 
     orcid:
-  - name: Stoddard, V. Brock
+  - name: Stoddard, Brock V
     orcid:
 article:
   doi: https://doi.org/10.17605/OSF.IO/8YQXE
   journal:
     name: JESA
-    manuscript:  JESA-D-20-00029R1
+    manuscript: JESA-D-20-00029R1
     volume:
     issue:
     pages:
@@ -939,7 +939,7 @@ data:
   
   title: Morally Monotonic Choice in Public Good Games
 authors:
-  - name: Cox, C. James 
+  - name: Cox, James C
     orcid:
   - name: Sadiraj, Vjollca 
     orcid:
@@ -962,9 +962,9 @@ data:
 authors:
   - name: Arad, Ayala 
     orcid:
-  - name: Grubiak, P. Kevin 
+  - name: Grubiak, Kevin P
     orcid:
-  - name: Penczynski, P. Stefan
+  - name: Penczynski, Stefan  P
     orcid:
 article:
   doi: https://doi.org/10.1007/s10683-022-09786-3
@@ -985,8 +985,6 @@ authors:
     orcid:
   - name: Lobeck, Max 
     orcid:
-  - name: Penczynski, P. Stefan
-    orcid:
 article:
   doi: https://doi.org/10.1007/s10683-023-09791-0
   journal:
@@ -1005,8 +1003,6 @@ authors:
   - name: Zoua, Wenbo 
     orcid:
   - name: Xu, Xue 
-    orcid:
-  - name: Penczynski, P. Stefan
     orcid:
 article:
   doi: https://doi.org/10.1007/s10683-022-09788-1
@@ -1122,9 +1118,9 @@ data:
   
   title: Permutation Tests for Experimental Data
 authors:
-  - name:  Holt, A. Charles 
+  - name: Holt, Charles A
     orcid:
-  - name:  Sullivan, P. Sean
+  - name: Sullivan, Sean P
     orcid:
 article:
   doi: 
@@ -1166,7 +1162,7 @@ authors:
     orcid:
   - name:  Dohmen, Thomas
     orcid:
-  - name:  Rohdec, Ingrid M.T.
+  - name:  Rohdec, Ingrid M
     orcid:
 article:
   doi: 
@@ -1185,7 +1181,7 @@ data:
 authors:
   - name: Huang, Jennie 
     orcid:
-  - name:  Kessler, B. Judd
+  - name:  Kessler, Judd B
     orcid:
   - name: Niederle, Muriel 
     orcid:
@@ -1206,7 +1202,7 @@ data:
 authors:
   - name: Dechenaux, Emmanuel  
     orcid:
-  - name:  Mago, D. Shakun
+  - name:  Mago, Shakun D
     orcid:
 article:
   doi: 
@@ -1242,7 +1238,7 @@ data:
   
 title: Political ideology does not predict self-control in Stroop task performance: New evidence using an incentivized task.
 authors:
-  - name: Dickinson, L. David
+  - name: Dickinson, David L
     orcid:
 article:
   doi: 
