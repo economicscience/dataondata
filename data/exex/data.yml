@@ -1686,12 +1686,49 @@ authors:
     orcid:
 article:
   doi: 
-  journal: JESA
-    name: 
-    manuscript:JESA-D-23-00018R1
+  journal: 
+    name: JESA
+    manuscript: JESA-D-23-00018R1
     volume:
     issue:
     pages:
 data:
   doi: https://osf.io/6w87b/
 
+---
+
+title: An Experiment in the Role of Identity in Fostering Coordination
+authors:
+  - name: Aldama, Aldama
+    orcid:
+  - name: Draganoff, Daniel 
+    orcid:
+  - name: Pahwa, Gantavya  
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-21-00003R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.3886/E193903V2
+
+---
+
+title: Measuring natural source dependence
+authors:
+  - name: Kemel, Emmanuel
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00115R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.3886/E195941V2
