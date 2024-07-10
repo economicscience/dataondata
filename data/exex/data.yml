@@ -1720,7 +1720,7 @@ data:
 
 title: Measuring natural source dependence
 authors:
-  - name: Kemel, Emmanuel
+    -name: Kemel, Emmanuel
     orcid:
 article:
   doi: 
@@ -1732,3 +1732,402 @@ article:
     pages:
 data:
   doi: https://doi.org/10.3886/E195941V2
+
+---
+
+title: Task completion without commitment
+authors:
+    -name: Freeman, David
+    orcid:
+    -name: Laughren, Kevin
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00072R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/XBACF/
+
+---
+
+title: Offline volunteering during COVID-19: A survey experiment with prior and prospective blood donors
+authors:
+    -name: Michael, Haylock
+    orcid:
+    -name: 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-23-00002R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://data.mendeley.com/datasets/4yt79j7nbm/1
+
+---
+
+title: On the Stability of Norms and Norm-Following Propensity: A Cross-Cultural Panel Study with Adolescents
+authors:
+    -name: Kimbrough, Erik 
+    orcid:
+    -name: Krupka, Eirin 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00038
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.7302/w77t-za90
+
+---
+
+title: Cooperation in Public Goods Experiments with Random and Finite Stopping Rules
+authors:
+    -name: Anderson, Lisa
+    orcid:
+    -name: Hicks, Robert
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-21-00046R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://scholarworks.wm.edu/economics_facwork/1/
+
+---
+
+title: 
+authors:
+    -name: Alshaikhmubarak, Hazem 
+    orcid:
+    -name: 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-22-00030R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/Y2JS7/
+
+---
+
+title: Ambiguity Attitudes for Real-World Sources: Field Evidence from a Large Sample of Investors
+authors:
+    -name: Mitchell, Olivia 
+    orcid:
+    -name: 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00345R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.7910/DVN/PTGPYT
+
+---
+
+title: Avoiding the Cost of your Conscience
+authors:
+    -name: Rimbaud, Claire 
+    orcid:
+    -name: Solda, Alice
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00228R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/fujdg/?view_only=0ec4ab35410e477997765ddb7549c34e
+
+---
+
+title: Adverse Effects of Control? Evidence from a Field Experiment
+authors:
+    -name: Herz, Holger
+    orcid:
+    -name: 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00138R2 
+    volume:
+    issue:
+    pages:
+data:
+  doi: 
+
+---
+
+title: Replication Data for: Does Goal Revision Undermine Self-Regulation Through Goals? An Experiment
+authors:
+    -name: Koch, Alexander 
+    orcid:
+    -name: Kaiser, Jonas
+    orcid:
+    -name: Nafziger, Julia
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00116R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.7910/DVN/49LVAT
+
+---
+
+title: Forecasting Emotions: Exploring the Relationship Between Self-Control, Affective Forecasting, and Self-Regulatory Behavior
+authors:
+    -name: Strömback, Camilla  
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-21-00013_R1 
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/fswkr/
+
+---
+
+title: Colour-coded decisions: an experiment on case-based decision theory
+authors:
+    -name: Radoc, Bing 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-20-00056R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/KU69D
+
+---
+
+title: Subjective Game Structures 
+authors:
+    -name: Fischer, Iian 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00168R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/7GNQ8
+
+---
+
+title: The Role of Self-Condence in Teamwork: Experimental Evidence 
+authors:
+    -name: Santos, Luis Pedro
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00271
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ENCX66
+
+---
+
+title: Strategies People Use Buying Airline Tickets: A Cognitive Modeling Analysis of Optimal Stopping in a Changing Environment 
+authors:
+    -name: Lee, Michael 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00349R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/nve5b
+
+---
+
+title: Is It What You Say or How You Say It?
+authors:
+    -name: Wang, Siyu 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00226R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/YR927
+
+---
+
+title: Position Uncertainty in a Sequential Public Goods Game: An Experiment
+authors:
+    -name: Anwar, Sakib 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00193R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/br5uy/files/osfstorage
+
+---
+
+title: Persistence or Decay of Strategic Asymmetric Dominance in Repeated Dyadic Games?
+authors:
+    -name: Pulford, Briony 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00222R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/PH6KE 
+
+---
+
+title: Explaining Interference Effects in Prisoner Dilemma Games
+authors:
+    -name: Busenmeyer, Jerome 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00323R1 
+    volume:
+    issue:
+    pages:
+data:
+  doi: no new data
+
+---
+
+title: Rational Inattention in Games: Experimental Evidence
+authors:
+    -name: Martin, Daniel  
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00315
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/qayc7/
+
+---
+
+title: Measuring subjective decision confidence.
+authors:
+    -name: Qiu, Jianjing
+    orcid:
+    -name: Arts, Sara
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00075R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/F3CHX/
+
+
+---
+
+title: Calling “Gevald”: On the emergence of negative election forecasts in partisan communications
+authors:
+    -name: Yechiam, Eldad
+    orcid:
+    -name: Zeif, Dana
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00260R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: hhttps://osf.io/EZ8GB/
+
+---
+
+title: Blame and praise: Responsibility attribution patterns in decision chains
+authors:
+    -name: Strumpf,  Regina 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00125R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://b2find.dkrz.de/dataset/aac67191-d12b-5da2-a567-1ee2e6808c88
