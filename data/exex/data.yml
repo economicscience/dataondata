@@ -2107,7 +2107,7 @@ authors:
 article:
   doi: 
   journal: 
-    name: Experimental Economics
+    -name: Experimental Economics
     manuscript: EXEX-D-23-00260R2
     volume:
     issue:
@@ -2131,3 +2131,20 @@ article:
     pages:
 data:
   doi: https://b2find.dkrz.de/dataset/aac67191-d12b-5da2-a567-1ee2e6808c88
+
+---
+
+title: 
+authors:
+    -name: 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00192R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/bdmep/?view_only=920248c854f54d2bb6bb3298540f15da 
