@@ -2132,11 +2132,63 @@ article:
 data:
   doi: https://b2find.dkrz.de/dataset/aac67191-d12b-5da2-a567-1ee2e6808c88
 
+
 ---
 
-title: 
+title: A General Revealed Preference Test for Quasi-Linear Preferences: Theory and Experiments
 authors:
-    -name: 
+    -name: Castillo, Geoffrey 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: JESA
+    manuscript: JESA-D-23-00027R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/p8qyf/
+
+---
+
+title: One bad apple spoils the barrel: Public good provision under threshold uncertainty
+authors:
+    -name: Carlsson, Fredrik 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00225R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://data.mendeley.com/datasets/xzcvm879nr/1
+
+---
+
+title: Sequential Search with a Price Freeze Option: Theory and Experimental Evidence
+authors:
+    -name: Noussair, Charles 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00151R3 
+    volume:
+    issue:
+    pages:
+data:
+  doi: DOI 10.17605/OSF.IO/TRJQZ
+
+---
+
+title: Competition for talent: heterogenous abilities in team production
+authors: 
+    -name: Stoddard, Brock 
     orcid:
 article:
   doi: 
@@ -2147,17 +2199,89 @@ article:
     issue:
     pages:
 data:
-  doi: https://osf.io/bdmep/?view_only=920248c854f54d2bb6bb3298540f15da 
+  doi: https://osf.io/bdmep/?view_only=920248c854f54d2bb6bb3298540f15da
+
+---
+
+title: The Roles of Selection and Practice in Mitigating Negative Responses to High- Powered Incentives
+authors: 
+    -name: Macera, Rosario 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-21-00061R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://datosinvestigacion.repositorio.uc.cl/
+
+---
+
+title: Gender Differences in Advice Giving
+authors: 
+    -name: Osun, Elif 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00073R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: DOI 10.17605/OSF.IO/SDFBE
+
+---
+
+title: Do participation rates vary with participation payments in laboratory experiments?
+authors: 
+    -name: Deck, Cary 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-22-00215R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.48707/3v2v-pk82  
+
+---
+
+title: 
+authors:
+    -name:  
+    orcid:
+    -name:  
+    orcid:
+    -name:  
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: 
+    manuscript: 
+    volume:
+    issue:
+    pages:
+data:
+  doi: 
 
 ---
 
 title: Individual and Contextual Effects of Attention in Risky Choice
 authors:
-    -name:  Alejandro Hirmas
+    -name: Hirmas, Alejandro
     orcid:
-    -name:  Jan Engelmann
+    -name: Engelmann, Jan 
     orcid:
-    -name:  Joel van der Weele
+    -name: van der Weele, Joel 
     orcid:
 article:
   doi: 
@@ -2169,3 +2293,24 @@ article:
     pages:
 data:
   doi: https://doi.org/10.21942/uva.26983366 
+
+---
+
+title: 
+authors:
+    -name:  
+    orcid:
+    -name:  
+    orcid:
+    -name:  
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: 
+    manuscript: 
+    volume:
+    issue:
+    pages:
+data:
+  doi: 
