@@ -2254,24 +2254,69 @@ data:
 
 ---
 
-title: 
+title: I Swear, I Would Like to Donate Later
 authors:
-    -name:  
+    -name: Li, Jianbiao 
     orcid:
-    -name:  
+    -name:  Zang, Ruqian
     orcid:
-    -name:  
+    -name:  Niu, Xiaofei
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00219R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/m7fhp/
+
+---
+
+
+title: Is “Real” Effort More Real?
+authors:
+    -name: Dutcher,  Glenn 
+    orcid:
+    -name: Salmon, Timothy 
+    orcid:
+    -name: Saral, Krista 
     orcid:
 article:
   doi: 
   journal: 
     name: 
-    manuscript: 
+    manuscript: EXEX-D-21-00157R2
     volume:
     issue:
     pages:
 data:
+  doi: https://doi.org/10.3886/E208628V1
+
+---
+
+title: Does Disappointment Aversion Explain Non-Truthful Reporting in Strategy-Proof Mechanisms?
+authors:
+    -name: Chen, Roy 
+    orcid:
+    -name: Katuscak, Peter 
+    orcid:
+    -name: Kittsteiner, Thomas 
+    orcid:
+    -name: Kutter, Katharina 
+    orcid:
+article:
   doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00278R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: http://doi.org/10.3886/E189301V5
 
 ---
 
@@ -2293,6 +2338,47 @@ article:
     pages:
 data:
   doi: https://doi.org/10.21942/uva.26983366 
+
+---
+
+title: Local Inequality and Own Rank Preferences
+authors:
+    -name: Brown, Christopher
+    orcid:
+    -name: Cason, Timothy 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00195R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://www.openicpsr.org/openicpsr/project/209028
+
+---
+
+
+title: 
+authors:
+    -name:  
+    orcid:
+    -name:  
+    orcid:
+    -name:  
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: 
+    manuscript: 
+    volume:
+    issue:
+    pages:
+data:
+  doi: 
 
 ---
 
