@@ -1896,7 +1896,7 @@ authors:
     -name: Nafziger, Julia
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09826-0
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-22-00116R1
@@ -1913,7 +1913,7 @@ authors:
     -name: Strömback, Camilla  
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s40881-024-00173-7
   journal: 
     name: JESA
     manuscript: JESA-D-21-00013_R1 
@@ -1930,7 +1930,7 @@ authors:
     -name: Radoc, Bing 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s40881-024-00177-3
   journal: 
     name: JESA
     manuscript: JESA-D-20-00056R1
@@ -1947,7 +1947,7 @@ authors:
     -name: Fischer, Iian 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09828-y
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00168R1
@@ -1964,7 +1964,7 @@ authors:
     -name: Santos, Luis Pedro
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09829-x
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00271
@@ -2361,42 +2361,119 @@ data:
 ---
 
 
-title: 
+title: Coordination in a two-sided market entry game with endogenous capacity: an experimental investigation
 authors:
-    -name:  
-    orcid:
-    -name:  
-    orcid:
-    -name:  
+    -name: Han, Xiao
     orcid:
 article:
   doi: 
   journal: 
-    name: 
-    manuscript: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00164R2
     volume:
     issue:
     pages:
 data:
-  doi: 
+  doi: https://doi.org/10.17605/OSF.IO/CMS5Z
 
 ---
 
-title: 
+title: Dynamic Pricing with Multiple Consumears and Alternating Offers Under Retailer Competition: Theory and Experiment
 authors:
-    -name:  
-    orcid:
-    -name:  
-    orcid:
-    -name:  
+    -name: Zwick, Rami
     orcid:
 article:
   doi: 
   journal: 
-    name: 
-    manuscript: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00358R1
     volume:
     issue:
     pages:
 data:
+  doi: https://osf.io/g63w5/?view_only=e23272b81a824f4fbd8286a41ede294f
+
+---
+
+title: Can Gender Diversity Prevent Risky Choice Shifts? The Effect of Gender Composition on Group Decisions under Risk
+authors:
+    -name: Detlefsen, Lena 
+    orcid:
+article:
   doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript:EXEX-D-22-00030R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/2wp4z/?view_only=fd895c321c564b169f4374338d34b774
+
+---
+
+title: An Experimental Investigation of Lobbying and Bribes
+authors:
+    -name: Veldhuizen,  Roel Van
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00336
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/rcju4/
+
+---
+
+title: Experimental Insights on Antisocial Behavior: Two Meta-Analyses
+authors:
+    -name: Zizzo, Daniel 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00191R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/rbupm/
+  
+---
+
+title: Trust and Trustworthiness in the Villain’s Dilemma: Collaborative Dishonesty with Conflicting Incentives?
+authors:
+    -name: Szekely, Aron 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-23-00300R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/62TYP
+
+---
+
+title: Gender differences in self-promotion: Understanding the female modesty constraint
+authors: 
+    -name: Vecci, Joseph
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EXEX-D-20-00210R4
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://osf.io/27b9v/
