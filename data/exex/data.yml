@@ -1574,8 +1574,7 @@ data:
   doi: https://osf.io/a8zem/
 
 ---
-title: Images say more than just words: visual vs text communication
-to dispel a rent–control misconception
+title: Images say more than just words: visual vs text communication to dispel a rent–control misconception
 authors:
   - name: Brandts, Jordi
     orcid:
@@ -1586,7 +1585,7 @@ authors:
   - name: Panadés, Judith
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-023-09817-7
   journal: Experimental Economics
     name: 
     manuscript: EXEX-D-22-00175R1 
@@ -1602,7 +1601,7 @@ authors:
   - name: Flage, Alexandre
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s40881-023-00155-1
   journal: JESA
     name: 
     manuscript: JESA-D-22-00014R1
@@ -1618,7 +1617,7 @@ authors:
   - name: Behlen, Lars
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-023-09808-8
   journal: Experimental Economics
     name: 
     manuscript: EXEX-D-22-00234R2
@@ -1634,7 +1633,7 @@ authors:
   - name: Koch, Christian
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s40881-023-00156-0
   journal: JESA
     name: 
     manuscript: JESA-D-22-00016R1
