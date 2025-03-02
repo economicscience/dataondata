@@ -2285,6 +2285,10 @@ title: Do participation rates vary with participation payments in laboratory exp
 authors: 
     -name: Deck, Cary 
     orcid:
+    -name: Henderson, J. Daniel
+    orcid:
+    -name: Zhong, Huizhen 
+    orcid:
 article:
   doi: 
   journal: 
@@ -2426,8 +2430,14 @@ title: Dynamic Pricing with Multiple Consumears and Alternating Offers Under Ret
 authors:
     -name: Zwick, Rami
     orcid:
+    -name: Gisches, J. Eyran
+    orcid:
+    -name: Mak, Vincent 
+    orcid:
+    -name: Rapoport, Amnon 
+    orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09848-8
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00358R1
@@ -2477,6 +2487,10 @@ title: Experimental Insights on Antisocial Behavior: Two Meta-Analyses
 authors:
     -name: Zizzo, Daniel 
     orcid:
+    -name: Tran, Nhu 
+    orcid:
+    -name: Karakostas, Alexandros
+    orcid:
 article:
   doi: 
   journal: 
@@ -2510,6 +2524,10 @@ data:
 title: Gender differences in self-promotion: Understanding the female modesty constraint
 authors: 
     -name: Vecci, Joseph
+    orcid:
+    -name: Neelim, Ananta 
+    orcid:
+    -name: Tradenta, M. Julio 
     orcid:
 article:
   doi: 
@@ -2546,6 +2564,10 @@ title: Social Preferences under the Shadow of the Future
 authors: 
     -name: Tripodi, Egon 
     orcid:
+    -name: Kölle, Felix 
+    orcid:
+    -name: Quercia, Simone 
+    orcid:
 article:
   doi: 
   journal: 
@@ -2562,6 +2584,10 @@ data:
 title: Willingness to volunteer among remote workers is insensitive to the team size
 authors: 
     -name: Werner, Tobias
+    orcid:
+    -name: Hillenbrand, Adrian
+    orcid:
+    -name: Winter, Fabian
     orcid:
 article:
   doi: 
@@ -2597,6 +2623,10 @@ title: See it to believe it. Experimental evidence on status consumption among t
 authors: 
     -name: Leites,  Martin 
     orcid:
+    -name: Alves, Guillermo
+    orcid:
+    -name: Salas, Gonzalo
+    orcid:
 article:
   doi: 
   journal: 
@@ -2614,6 +2644,10 @@ data:
 title: Incentives crowd out voluntary cooperation Evidence from gift-exchange experiments
 authors: 
     -name: Gächter, Simon 
+    orcid:
+    -name: Kaiser, Esther 
+    orcid:
+    -name: Königstein, Manfred  
     orcid:
 article:
   doi: 
