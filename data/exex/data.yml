@@ -2935,7 +2935,7 @@ data:
 
 ---
 
-title: Flexible Estimation of Parametric Prospect Models using Hierarchical Bayesian Methods.
+title: Flexible Estimation of Parametric Prospect Models using Hierarchical Bayesian Methods
 authors: 
     -name: Fraser, Ian 
     orcid:
@@ -2949,6 +2949,23 @@ article:
     pages:
 data:
   doi: 10.17605/OSF.IO/A9EWS
+
+---
+
+title: Passive Inequality and the Dilemma of Meritocracy
+authors: 
+    -name: Guenther, Laurenz
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2024-0059
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.15254781
 
 ---
 
