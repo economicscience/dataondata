@@ -1081,9 +1081,9 @@ data:
   title: Participatory incentives
 authors:
   - name: Bripi, Francesco
-    orcid:
+    orcid: 0000-0003-3975-2632
   - name: Grieco, Daniela 
-    orcid:
+    orcid: 0000-0003-1196-8685
 article:
   doi: https://doi.org/10.1007/s10683-023-09798-7
   journal:
@@ -1104,7 +1104,7 @@ authors:
   - name: Laisney, Francois 
     orcid:
   - name: Pezanis-Christou, Paul 
-    orcid:
+    orcid: 0000-0001-6521-4139
 article:
   doi: https://doi.org/10.1007/s10683-023-09797-8
   journal:
@@ -1123,7 +1123,7 @@ authors:
   - name: Holt, Charles A
     orcid:
   - name: Sullivan, Sean P
-    orcid:
+    orcid: 0000-0001-7634-2072
 article:
   doi: https://doi.org/10.1007/s10683-023-09799-6
   journal:
@@ -1142,7 +1142,7 @@ authors:
   - name: Rilke Fischer, Mira 
     orcid:
   - name: Rainer, Michael
-    orcid:
+    orcid: 0000-0001-8901-860X
   - name: Yurtoglu, Burcin 
     orcid:
 article:
@@ -1161,7 +1161,7 @@ data:
   title: Tournament Incentives Affect Perceived Stress and Hormonal Stress Responses
 authors:
   - name:  Stolp, Tom 
-    orcid:
+    orcid: 0000-0002-6441-0872
   - name:  Dohmen, Thomas
     orcid:
   - name:  Rohdec, Ingrid M
@@ -1238,10 +1238,10 @@ data:
   
 ---
   
-title: Political ideology does not predict self-control in Stroop task performance: New evidence using an incentivized task.
+title: Political ideology does not predict self-control in Stroop task performance: New evidence using an incentivized task
 authors:
   - name: Dickinson, David L
-    orcid:
+    orcid: 0000-0003-3899-0276
 article:
   doi: https://doi.org/10.1007/s40881-023-00133-7
   journal:
@@ -1258,7 +1258,7 @@ data:
 title: Upset but (almost) correct: A conceptual replication of di Tella, Perez-Truglia, Babino and Sigman (2015)
 authors:
   - name: Verrina, Eugenio
-    orcid:
+    orcid: 0000-0002-4442-4601
 article:
   doi: https://doi.org/10.1007/s40881-023-00136-4
   journal:
@@ -1275,11 +1275,11 @@ data:
 title: Opportunity cost neglect: a meta-analysis
 authors:
   - name: Tingög, Gustav 
-    orcid:
+    orcid: 0000-0002-8159-1249
   - name: Maguire, Allegra 
-    orcid:
+    orcid: 0000-0002-7818-1281
   - name: Persson, Emil 
-    orcid:
+    orcid: 0000-0003-2994-0541
 article:
   doi: https://doi.org/10.1007/s40881-023-00134-6
   journal:
@@ -1296,11 +1296,11 @@ data:
 title: Overconfidence: the roles of gender, public observability and incentives
 authors:
   - name: Amirkhanyan, Hayk 
-    orcid:
+    orcid: 0000-0003-4847-8540
   - name: Krawczyk, Michał 
-    orcid:
+    orcid: 0000-0001-6795-1175
   - name: Wilamowski, Maciej
-    orchid: 
+    orchid: 0000-0001-8478-572X
   - name: Bokszczanin, Paweł 
     ochid: 
 article:
@@ -1338,7 +1338,7 @@ data:
 title: Context and Preferences for Equality in the Spectator Game
 authors:
   - name: Tjøtta, Sigve
-    orcid:
+    orcid: 0000-0001-9763-9676
   - name: Telle Ovidia, Ingrid
     orcid:
 article:
@@ -1357,11 +1357,11 @@ data:
 title: Social Status and Prosocial Behavior
 authors:
   - name: Zheng, Jin Di
-    orcid:
+    orcid: 0000-0001-7735-2408
   - name: Schram, Arthur
     orcid:
   - name: Song, Tianle
-    orcid:
+    orcid: 0000-0001-5585-2778
 article:
   doi: https://doi.org/10.1007/s10683-023-09810-0
   journal:
@@ -1378,9 +1378,11 @@ data:
 title: Cooperation and confusion in public goods games: Confusion cannot explain contribution patterns
 authors:
   - name: Kocher, Martin
-    orcid:
+    orcid: 0000-0002-6792-1192
   - name: Granulo, Armin
-    orcid:
+    orcid: 0000-0001-5481-8156
+  - name: Kerschreiter, Rudolf 
+    orcid: 0000-0003-0281-0261
 article:
   doi: https://doi.org/10.1007/s40881-023-00139-1
   journal:
@@ -1397,9 +1399,9 @@ data:
 title: Contracting under Asymmetric Information and Externalities: An Experimental Study
 authors:
   - name: Nieken, Petra 
-    orcid:
+    orcid: 0000-0001-6157-6749
   - name: Schmitz, W. Patrick 
-    orcid:
+    orcid: 0000-0003-3461-5102
 article:
   doi: https://doi.org/10.1007/s10683-023-09813-x
   journal:
@@ -1624,7 +1626,7 @@ data:
 title: Is There a Nexus Between Pro-Social Behavior and Well-Being? Correlational Evidence
 authors:
   - name: Koch, Christian
-    orcid:
+    orcid: 0000-0002-9098-0895
 article:
   doi: https://doi.org/10.1007/s40881-023-00156-0
   journal: 
@@ -1672,12 +1674,12 @@ data:
 
 ---
 
-title: Changes in platform economy taxation
+title: Information about changes in platform economy taxation diminishes optimism regarding future use
 authors:
   - name: Mol, Jantsje
-    orcid:
+    orcid: 0000-0002-8833-5125
   - name: Molho, Catherine 
-    orcid:
+    orcid: 0000-0002-2846-2544
 article:
   doi: https://doi.org/10.1007/s40881-024-00160-y
   journal: 
@@ -1827,7 +1829,13 @@ title: Knowing me, knowing you: an experiment on mutual payoff information in th
 authors:
     -name: Alshaikhmubarak, Hazem 
     orcid:
-    -name: 
+    -name: Hales, David 
+    orcid:
+    -name: Kogelnik, Maria 
+    orcid:
+    -name: Schwarz, Molly
+    orcid:
+    -name: Strauss, C. Kent 
     orcid:
 article:
   doi: https://doi.org/10.1007/s40881-024-00167-5
@@ -2019,8 +2027,12 @@ title: Is It What You Say or How You Say It?
 authors:
     -name: Wang, Siyu 
     orcid:
+    -name: Qin, Xiangdong 
+    orcid:
+    -name: Wu, Mike Zhiren 
+    orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09830-4
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00226R1
@@ -2271,7 +2283,7 @@ authors:
     -name: Osun, Elif 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09846-w
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-22-00073R3
@@ -2472,8 +2484,12 @@ title: An Experimental Investigation of Lobbying and Bribes
 authors:
     -name: Veldhuizen,  Roel Van
     orcid:
+    -name: Gneezy, Uri 
+    orcid:
+    -name: Saccardo, Silvia 
+    orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.5
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00336
@@ -2510,6 +2526,14 @@ title: Trust and Trustworthiness in the Villain’s Dilemma: Collaborative Disho
 authors:
     -name: Szekely, Aron 
     orcid:
+    -name: Andrighetto, Giulia 
+    orcid:
+    -name: Angelovski, Andrej
+    orcid:
+    -name: Cagno, Daniela Di 
+    orcid:
+    -name: Marazzi, Francesca 
+    orcid:
 article:
   doi: https://doi.org/10.1017/eec.2024.3
   journal: 
@@ -2541,13 +2565,16 @@ article:
     pages:
 data:
   doi: https://osf.io/27b9v/
-
-
+  
 ---
 
 title: Learning to Detect Change: An Experimental Investigation
 authors: 
     -name: Ye, Li
+    orcid:
+    -name: Massey, Cade 
+    orcid:
+    -name: Wu, George
     orcid:
 article:
   doi: https://doi.org/10.1017/eec.2024.9
@@ -2606,7 +2633,9 @@ data:
 
 title: Are risk-tolerant individuals more trustful?
 authors: 
-    -name: Willinger, Marc
+    -name: Willinger, Marc 
+    orcid:
+    -name: Herrera, Daniel Montoya
     orcid:
 article:
   doi: 
@@ -2754,11 +2783,11 @@ data:
 title: Underweighting of Rare Events in Strategic Games
 authors: 
     -name: Plonsky, Ori 
-    orcid: https://orcid.org/0000-0002-1619-4482
+    orcid: 0000-0002-1619-4482
     -name: Ayoub, Peter 
-    orcid: https://orcid.org/0009-0009-8548-2902
+    orcid: 0009-0009-8548-2902
     -name: Roth, Yefim 
-    orcid: https://orcid.org/0000-0003-2732-0496
+    orcid: 0000-0003-2732-0496
 article:
   doi:  https://doi.org/10.1017/eec.2025.3
   journal: 
@@ -2775,7 +2804,7 @@ data:
 title: Complexity and Contingent reasoning Experimental Economics
 authors: 
     -name: Park, Hyoeun 
-    orcid: https://orcid.org/0000-0003-4423-0775
+    orcid: 0000-0003-4423-0775
 article:
   doi: https://doi.org/10.1017/eec.2025.7
   journal: 
@@ -2792,9 +2821,13 @@ data:
 title: Measuring Higher-Order Rationality with Belief Control
 authors: 
     -name: Meng-Jhang, Fong
-    orcid:
+    orcid: 0009-0008-8832-3985
+    -name: Chen, Wei James
+    orcid: 0000-0001-6360-9348
+    -name: Lin, Po-Hsuan 
+    orcid: 0000-0003-3437-1734
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2025.5
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0082R2
@@ -2807,7 +2840,6 @@ data:
 ---
 
 title: Spoiling the party. Experimental evidence on the willingness to transmit inconvenient ethical information
-Experimental Economics
 authors: 
     -name: Mol, Jantsje
     orcid:
