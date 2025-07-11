@@ -3105,6 +3105,40 @@ data:
 
 ---
 
+title: Strategies in the Multi-Armed Bandit
+authors: 
+    -name: Hudja, Stanton
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2025-0057
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/4PW7M
+
+---
+
+title: Beyond Representation: The Importance of the Decision-Making Process in Hiring Decisions
+authors: 
+    -name: Prachi, Jain
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2025-0064R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/BHMWC
+
+---
+
 title: 
 authors: 
     -name: 
@@ -3113,7 +3147,24 @@ article:
   doi: 
   journal: 
     name: 
-    manuscript: 
+    manuscript:
+    volume:
+    issue:
+    pages:
+data:
+  doi: 
+
+---
+
+title: 
+authors: 
+    -name: 
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: 
+    manuscript:
     volume:
     issue:
     pages:
