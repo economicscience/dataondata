@@ -224,11 +224,11 @@ data:
 title: What Drives Conditional Cooperation in Public Good Games?
 authors:
   - name: Katuscak, Peter
-    orcid: NA
+    orcid: 
   - name: Miklanek, Tomas
     orcid: 0000-0002-8775-9460
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-022-09756-9
   journal:
     name: Experimental Economics
     manuscript: EXEX-D-20-00050R2
@@ -283,7 +283,7 @@ authors:
   - name: Baranski-Madrigal, Andrzej
     orcid: 0000-0001-5964-487X
   - name: Morton, Rebecca
-    orcid: NA
+    orcid: 
 article:
   doi: https://doi.org/10.1007/s10683-021-09734-7
   journal:
@@ -311,7 +311,7 @@ authors:
   - name: Sharifova, Manizha
     orcid: 0000-0001-7721-446X
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-022-09764-9
   journal:
     name: Experimental Economics
     manuscript: EXEX-D-20-00409R2
@@ -1021,8 +1021,10 @@ data:
 authors:
   - name: Armantier, Olivier
     orcid:
+  - name: Holt, Charles
+    orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-022-09783-6
   journal:
     name: Experimental Economics
     manuscript: EXEX-D-21-00313R2
@@ -1181,7 +1183,7 @@ data:
 authors:
   - name: Huang, Jennie 
     orcid:
-  - name:  Kessler, Judd B
+  - name: Kessler, Judd B
     orcid:
   - name: Niederle, Muriel 
     orcid:
@@ -1524,11 +1526,11 @@ authors:
     orcid:
   - name: Hanaki, Nobuyuki 
     orcid:
-  - name: Hommes, C
+  - name: Hommes, Cars
     orcid:
   - name: Kopányi, Dávid
     orcid:
-  - name: Kopányi-Peuker. Anita
+  - name: Kopányi-Peuker, Anita
     orcid:
 article:
   doi: https://doi.org/10.1007/s10683-023-09815-9
@@ -1641,7 +1643,7 @@ authors:
   - name: Maltz, Amnon
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-023-09814-w
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-22-00229R2
@@ -1658,7 +1660,7 @@ authors:
   - name: Andrews, Talbot
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s40881-023-00157-z
   journal: 
     name: JESA
     manuscript:  JESA-D-20-00009R2
@@ -2110,14 +2112,14 @@ data:
 
 ---
 
-title: Measuring subjective decision confidence.
+title: Measuring subjective decision confidence
 authors:
     -name: Qiu, Jianjing
     orcid:
     -name: Arts, Sara
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09837-x
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-22-00075R2
@@ -2290,7 +2292,7 @@ authors:
     -name: Zhong, Huizhen 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09840-2
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-22-00215R2
@@ -2311,7 +2313,7 @@ authors:
     -name:  Niu, Xiaofei
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09845-x
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00219R1
@@ -2333,7 +2335,7 @@ authors:
     -name: Saral, Krista 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09844-y
   journal: 
     name: 
     manuscript: EXEX-D-21-00157R2
@@ -2356,7 +2358,7 @@ authors:
     -name: Kutter, Katharina 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09847-9
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00278R1
@@ -2377,7 +2379,7 @@ authors:
     -name: van der Weele, Joel 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1007/s10683-024-09849-7
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-24-00021R3
@@ -2492,7 +2494,7 @@ authors:
     -name: Karakostas, Alexandros
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.10
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00191R2
@@ -2509,7 +2511,7 @@ authors:
     -name: Szekely, Aron 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.3
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00300R1
@@ -2548,7 +2550,7 @@ authors:
     -name: Ye, Li
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.9
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0063
@@ -2569,7 +2571,7 @@ authors:
     -name: Quercia, Simone 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.11
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-24-00029R1
@@ -2590,7 +2592,7 @@ authors:
     -name: Winter, Fabian
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.13
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00235R1
@@ -2628,7 +2630,7 @@ authors:
     -name: Salas, Gonzalo
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.15
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00060R2
@@ -2650,7 +2652,7 @@ authors:
     -name: Königstein, Manfred  
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2024.14
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0089
@@ -2700,8 +2702,10 @@ title: Too risky to hedge: An experiment on narrow bracketing
 authors: 
     -name: Zhou, Ling 
     orcid:
+    -name: Zheng, Jiakun 
+    orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2025.1
   journal: 
     name: Experimental Economics
     manuscript: EXEX-D-23-00178R2
@@ -2718,7 +2722,7 @@ authors:
     -name: Ratchford, Mark 
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2025.4
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0091R1
@@ -2735,7 +2739,7 @@ authors:
     -name: Huet-Vaughn, Emiliano
     orcid:
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2025.2
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0108
@@ -2750,9 +2754,13 @@ data:
 title: Underweighting of Rare Events in Strategic Games
 authors: 
     -name: Plonsky, Ori 
-    orcid:
+    orcid: https://orcid.org/0000-0002-1619-4482
+    -name: Ayoub, Peter 
+    orcid: https://orcid.org/0009-0009-8548-2902
+    -name: Roth, Yefim 
+    orcid: https://orcid.org/0000-0003-2732-0496
 article:
-  doi: 
+  doi:  https://doi.org/10.1017/eec.2025.3
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0051R1
@@ -2767,9 +2775,9 @@ data:
 title: Complexity and Contingent reasoning Experimental Economics
 authors: 
     -name: Park, Hyoeun 
-    orcid:
+    orcid: https://orcid.org/0000-0003-4423-0775
 article:
-  doi: 
+  doi: https://doi.org/10.1017/eec.2025.7
   journal: 
     name: Experimental Economics
     manuscript: EEC-2024-0073
