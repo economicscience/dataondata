@@ -2877,6 +2877,8 @@ title: Algorithmic Price Recommendations and Collusion: Experimental Evidence
 authors: 
     -name: Werner, Tobias
     orcid:
+    -name: Hunold, Matthias 
+    orcid:
 article:
   doi: 
   journal: 
@@ -2886,7 +2888,7 @@ article:
     issue:
     pages:
 data:
-  doi: https://doi.org/10.17605/OSF.IO/PRWCS
+  doi: https://doi.org/10.17605/OSF.IO/V2TMG
 
 ---
 
@@ -3013,6 +3015,10 @@ title: Fairness and Willingness to Compete
 authors: 
     -name:  Buser, Thomas
     orcid:
+    -name: Cappelen, Alexander W
+    orcid:
+    -name: Tungodden, Bertil
+    orcid:
 article:
   doi: 
   journal: 
@@ -3080,7 +3086,11 @@ data:
 title: Coordination games played by children and teenagers on the influence of age group size and incentives
 authors: 
     -name: Sutter, Matthias
-    orcid:
+    orcid: 0000-0002-6143-8706
+    -name: Glätzle-Rützler, Daniela
+    orcid: 0000-0002-6678-2418
+    -name: Zoller, Claudia
+    orcid: 0000-0002-1130-2317
 article:
   doi: 
   journal: 
