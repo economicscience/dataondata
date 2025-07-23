@@ -1461,7 +1461,7 @@ data:
 title: The Preference Survey Module: Evidence on Social Preferences from Tehran
 authors:
   - name: Kosfeld, Michael 
-    orcid:
+    orcid: 0000-0003-2427-0825
   - name: Sharafi, Zahra 
     orcid:
 article:
@@ -1480,15 +1480,15 @@ data:
 title: Using Social Norms to Explain Giving Bheavior
 authors:
   - name: Krupka, Erin
-    orcid:
+    orcid: 0000-0002-9194-7501
   - name: Eckel, Cathrine
-    orcid:
+    orcid: 0000-0003-1583-5214
   - name: Hoover, G. Hanna
-    orcid:
+    orcid: 0000-0002-7919-7867
   - name: Sinha, Nishita 
-    orcid:
+    orcid: 0000-0002-8247-6867
   - name: Wilson, K. Rick
-    orcid:
+    orcid: 0000-0003-4278-7721
 article:
   doi: https://doi.org/10.1007/s10683-023-09811-z
   journal:
@@ -1508,7 +1508,7 @@ authors:
   - name: Li, Tianyi
     orcid:
   - name: Noussair, Charles
-    orcid:
+    orcid: 0000-0001-5348-4414
 article:
   doi: https://doi.org/10.1007/s40881-023-00152-4
   journal:
@@ -1525,15 +1525,15 @@ data:
 title: Forecasting returns instead of prices exacerbates financial bubbles
 authors:
   - name: Tuinstra, Jan
-    orcid:
+    orcid: 0000-0001-6156-4940
   - name: Hanaki, Nobuyuki 
-    orcid:
+    orcid: 0000-0003-3127-690X
   - name: Hommes, Cars
-    orcid:
+    orcid: 0000-0002-2260-2665
   - name: Kopányi, Dávid
-    orcid:
+    orcid: 0000-0002-4613-5168
   - name: Kopányi-Peuker, Anita
-    orcid:
+    orcid: 0000-0002-3033-2597
 article:
   doi: https://doi.org/10.1007/s10683-023-09815-9
   journal: 
@@ -1550,13 +1550,13 @@ data:
 title: Speed traps: Algorithmic trader performance under alternative market balances and structures
 authors:
   - name: Peng, Yan 
-    orcid:
+    orcid: 0000-0001-8826-5027
   - name: Shachat, Jason 
-    orcid:
+    orcid: 0000-0002-9719-4555
   - name: Wei, Lijia 
-    orcid:
+    orcid: 0000-0002-5032-0788
   - name: Zhang, Sarah 
-    orcid:
+    orcid: 0000-0002-1612-453X
 article:
   doi: https://doi.org/10.1007/s10683-023-09816-8
   journal: 
@@ -1572,13 +1572,13 @@ data:
 title: Images say more than just words: visual vs text communication to dispel a rent–control misconception
 authors:
   - name: Brandts, Jordi
-    orcid:
+    orcid: 0000-0001-9082-9258
   - name: Busom, Isabel 
-    orcid:
+    orcid: 0000-0001-9621-369X
   - name: Lopez-Mayan, Cristina 
-    orcid:
+    orcid: 0000-0001-7206-1476
   - name: Panadés, Judith
-    orcid:
+    orcid: 0000-0001-8678-1204
 article:
   doi: https://doi.org/10.1007/s10683-023-09817-7
   journal: 
@@ -1594,7 +1594,7 @@ data:
 title: Taking Games: A Meta Analysis
 authors:
   - name: Flage, Alexandre
-    orcid:
+    orcid: 0000-0001-8414-6143
 article:
   doi: https://doi.org/10.1007/s40881-023-00155-1
   journal: 
@@ -1610,6 +1610,10 @@ data:
 title: Defaults and effortful tasks
 authors:
   - name: Behlen, Lars
+    orcid: 0000-0001-8918-2485
+  - name: Himmler, Oliver
+    orcid:
+  - name: Jäckle, Robert 
     orcid:
 article:
   doi: https://doi.org/10.1007/s10683-023-09808-8
@@ -1643,6 +1647,10 @@ data:
 title: On the Relevance of Irrelevant Strategies
 authors:
   - name: Maltz, Amnon
+    orcid: 0000-0003-3488-8223
+  - name: Arad, Ayala
+    orcid:
+  - name: Bachi, Benjamin 
     orcid:
 article:
   doi: https://doi.org/10.1007/s10683-023-09814-w
@@ -1660,7 +1668,7 @@ data:
 title: Who punishes? A note on responses to cooperation and defection across cultures
 authors:
   - name: Andrews, Talbot
-    orcid:
+    orcid: 0000-0002-3157-6382
 article:
   doi: https://doi.org/10.1007/s40881-023-00157-z
   journal: 
@@ -1696,7 +1704,7 @@ data:
 title: An Experiment in the Role of Identity in Fostering Coordination
 authors:
   - name: Aldama, Aldama
-    orcid:
+    orcid: 0000-0003-4151-7260
   - name: Draganoff, Daniel 
     orcid:
   - name: Pahwa, Gantavya  
@@ -2842,7 +2850,11 @@ data:
 title: Spoiling the party. Experimental evidence on the willingness to transmit inconvenient ethical information
 authors: 
     -name: Mol, Jantsje
-    orcid:
+    orcid: 0000-0002-8833-5125
+    -name: Soraperra, Ivan 
+    orcid: 0000-0002-4596-3885
+    -name: van der Weele, Joël
+    orcid: 0000-0002-1855-9289
 article:
   doi: 
   journal: 
