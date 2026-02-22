@@ -3655,6 +3655,29 @@ data:
 
   ---
 
+title: Market Visualizations
+authors: 
+    -name: Friedman, Daniel
+    orcid:
+authors: 
+    -name: Williams, Brett
+    orcid:
+authors: 
+    -name: Zheng, Vivian
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2025-0255R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/6MJ8S
+
+---
+
 title: 
 authors: 
     -name: 
@@ -3669,4 +3692,3 @@ article:
     pages:
 data:
   doi: 
-
