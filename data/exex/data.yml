@@ -3767,6 +3767,26 @@ data:
 
 ---
 
+title: An Experiment on a Multi-Period Beauty Contest Game
+authors: 
+    -name: Hanaki, Nobuyuki
+    orcid: 0000-0003-3127-690X
+authors: 
+    -name: Takahashi, Yuta
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2024-0129R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.17605/OSF.IO/GECV8
+
+---
+
 title: 
 authors: 
     -name: 
@@ -3781,3 +3801,4 @@ article:
     pages:
 data:
   doi: 
+
