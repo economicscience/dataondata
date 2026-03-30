@@ -3807,6 +3807,32 @@ data:
 
 ---
 
+title: Learning by consuming in the lab
+authors: 
+    -name: Lévy-Garboua, Louis
+    orcid:
+authors: 
+    -name: Owen, Claire  Placido, Laetitia
+    orcid:
+authors: 
+    -name: Placido, Laetitia
+    orcid:
+authors: 
+    -name: Rapoport, Benoît
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2024-0090R3
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.18866032
+
+---
+
 title: 
 authors: 
     -name: 
@@ -3821,4 +3847,3 @@ article:
     pages:
 data:
   doi: 
-
