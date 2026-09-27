@@ -4186,29 +4186,6 @@ data:
 
 ---
 
-title: How Well Do Women Sell? New Evidence for Non-ProfessionalsHow Well Do Women Sell? New Evidence for Non-Professionals
-authors: 
-    -name: Fleischer, Carina
-    orcid:
-authors: 
-    -name: Kraft, Holger
-    orcid:
-authors: 
-    -name: Weiss, Farina
-    orcid:
-article:
-  doi: 
-  journal: 
-    name: Experimental Economics
-    manuscript: EEC-2025-0091R2
-    volume:
-    issue:
-    pages:
-data:
-  doi: https://doi.org/10.5281/zenodo.22827836
-
----
-
 title: Choice Over Payment Schemes and Worker Effort
 authors: 
     -name: Abel, Martin
@@ -4340,6 +4317,26 @@ data:
   doi: https://doi.org/10.5281/zenodo.22827836
 
  ---
+
+title: Failures of Contingent Reasoning in Screening Decisions
+authors: 
+    -name: Arrieta, Gonzalo
+    orcid:
+authors: 
+    -name: Bakhtin, Maxim
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2025-0283R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.22746696
+
+  ---
 
 title: 
 authors: 
