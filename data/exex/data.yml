@@ -4340,6 +4340,29 @@ data:
 
 title: 
 authors: 
+    -name: Drobner, Christoph
+    orcid:
+authors: 
+    -name: Goerg, Sebastian J. 
+    orcid:
+authors: 
+    -name: Kobsacheilis, Orestis
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2024-0080R2
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.22695799
+
+  ---
+
+title: 
+authors: 
     -name: 
     orcid:
 article:
