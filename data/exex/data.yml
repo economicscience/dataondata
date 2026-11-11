@@ -4562,7 +4562,31 @@ article:
     pages:
 data:
   doi: https://doi.org/10.17605/OSF.IO/JK749
+ 
  ---
+
+title: The Experimenters' Dilemma: Constructing Inferential Preferences over Populations with Budget Constraints
+authors: 
+    -name: Rigotti, Luca
+    orcid:
+authors: 
+    -name: Wilson, Alistair
+    orcid:
+authors: 
+    -name: Gupta, Neeraja
+    orcid:
+article:
+  doi: 
+  journal: 
+    name: Experimental Economics
+    manuscript: EEC-2025-0071R1
+    volume:
+    issue:
+    pages:
+data:
+  doi: https://doi.org/10.5281/zenodo.23769849
+
+   ---
 
 title: 
 authors: 
@@ -4578,3 +4602,4 @@ article:
     pages:
 data:
   doi: 
+
